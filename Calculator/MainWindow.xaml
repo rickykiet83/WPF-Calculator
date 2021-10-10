@@ -140,6 +140,7 @@
                 Grid.Row="4"/>
         <Button 
             x:Name="zeroButton"
+            Click="NumberButton_Click"
             Content="0"
                 Margin="5"
                 Grid.ColumnSpan="2"
